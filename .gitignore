@@ -1,0 +1,12 @@
+blockchain/node_modules/
+blockchain/.env
+
+
+blockchain/cache
+blockchain/artifacts
+
+
+blockchain/coverage
+blockchain/coverage.json
+
+blockchainignition/deployments/chain-31337
